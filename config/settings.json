@@ -1,0 +1,23 @@
+{
+  "module": "cursor-trial-reset",
+  "version": "0.1.0",
+  "runtime": {
+    "threads": 4,
+    "verbose": false,
+    "hot_reload": true
+  },
+  "modules": {
+    "resetter": {
+      "enabled": true
+    },
+    "fingerprint": {
+      "enabled": true
+    },
+    "backup": {
+      "enabled": true
+    },
+    "cli": {
+      "enabled": true
+    }
+  }
+}
