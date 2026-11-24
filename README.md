@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="banner.svg" alt="cursor-trial-reset" width="840" />
-
 # Cursor Trial Reset — Trial Reset Utility for Cursor IDE (Portable x64 Build, JSON Configuration)
 
 <p><strong>Cursor Trial Reset — Trial Reset Utility for Cursor IDE (Portable x64 Build, JSON Configuration): Reset the Cursor Pro trial as many times as you want. Native 64-bit portable build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.</strong></p>
